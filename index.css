@@ -1,0 +1,40 @@
+*{
+    background-color: #f0fcec;
+    padding: 0;
+    font-family: 'Poppins';
+}
+
+body{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+a{
+    text-decoration: none;
+    color: grey;
+}
+
+nav{
+    text-align: left;
+}
+
+nav li{
+    display: inline-block;
+    padding-right: 15px;
+}
+
+header{
+
+}
+
+.judul1{
+    color: #4cac4c;
+    border-bottom: 1px solid #4cac4c;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.banner1{
+    background-position: center;
+    width: 100%;
+}
